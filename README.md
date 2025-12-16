@@ -1,6 +1,8 @@
 # mcsr anything bot
 [@mcsranything](https://twitter.com/mcsranything) : a silly twitter bot that posts random minecraft speedrunners (and mcsr adjacent people) in different situations !
 
+# currently on hold to focus more on other projects!
+
 ![Couriway and Feinberg in Infernally's escape room](https://media1.tenor.com/m/EhTZcz4fRcsAAAAC/mcsr-couriway.gif)
 
 ---
